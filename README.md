@@ -1,5 +1,6 @@
 # Decision Mirror
 
+
 Decision Mirror is a governance framework
 for preserving human agency
 in automated and assistive systems.
