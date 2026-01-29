@@ -63,3 +63,14 @@ See /governance/CHARTER.md
 
 This project is licensed under the Apache 2.0 License.
 See LICENSE for details.
+
+## Governance & Identity
+
+This project is governed by:
+
+- Canonical Definition
+- Brand Policy
+- Public Decision Log
+
+See /docs and /governance for details.
+
