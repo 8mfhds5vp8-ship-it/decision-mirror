@@ -1,76 +1,138 @@
-# Decision Mirror
+# Decision Mirror — Template Repository
 
+This repository provides a ready-to-use governance framework
+for building systems that preserve human agency
+and prevent silent shifts of control.
 
-Decision Mirror is a governance framework
-for preserving human agency
-in automated and assistive systems.
-
-It ensures that system capabilities
-are admitted only after
-human awareness and veto are structurally possible.
+Use this template to create your own
+Decision Mirror implementation.
 
 ---
 
-## Why Decision Mirror
+## What Is This?
 
-Modern systems often optimize
-before responsibility is established.
+Decision Mirror is a governance framework designed to ensure that:
 
-Decision Mirror prevents
-silent shifts of control
-and preserves accountability.
+- System capabilities are introduced transparently
+- Human veto remains structurally possible
+- Responsibility stays attributable
+- Irreversible changes receive deliberation
 
----
-
-## Core Documents
-
-📘 Public Playbook  
-/docs/Decision_Mirror_Public_Playbook_v1.0.pdf
-
-📜 Canonical Definition  
-/docs/CANONICAL_DEFINITION.md
-
-🗺️ Roadmap  
-/docs/ROADMAP.md
-
-⚖️ Governance  
-/governance/CHARTER.md
-
-📂 Case Archive  
-/cases/
+This template helps you apply these principles
+in your own organization or project.
 
 ---
 
-## Getting Started
+## Who Is This For?
 
-1. Read the Public Playbook
-2. Review the Canonical Definition
-3. Apply the Review Checklist
-4. Document boundary decisions
+This template is intended for:
+
+- AI / automation teams
+- Biomedical and medical device projects
+- High-risk software systems
+- Research groups
+- Policy and governance teams
+
+If your system influences human decisions,
+this framework is relevant.
 
 ---
 
-## Governance
+## How To Use This Template
 
-Decision Mirror is governed
-by a public charter and versioned amendments.
+### Step 1 — Create Your Repository
 
-See /governance/CHARTER.md
+Click:
+
+🟢 **Use this template** → Create new repository
+
+This creates a clean copy under your account.
+
+---
+
+### Step 2 — Customize Core Documents
+
+Edit the following files first:
+
+📜 `/docs/CANONICAL_DEFINITION.md`  
+→ Adapt principles to your domain
+
+⚖️ `/governance/CHARTER.md`  
+→ Define decision authority
+
+🗺️ `/docs/ROADMAP.md`  
+→ Set your development phases
+
+📘 `/docs/PUBLIC_PLAYBOOK.md`  
+→ Share with stakeholders
+
+---
+
+### Step 3 — Establish Governance
+
+Before technical expansion:
+
+- Assign maintainers
+- Define review process
+- Publish change rules
+- Enable documentation discipline
+
+Do not skip this step.
+
+---
+
+### Step 4 — Begin Case Documentation
+
+Use `/cases/TEMPLATE.md` to document:
+
+- Boundary decisions
+- Rejected proposals
+- Risk tradeoffs
+- Lessons learned
+
+Your case archive is your institutional memory.
+
+---
+
+## Governance Principles
+
+All implementations must preserve:
+
+1. Human veto
+2. Traceable responsibility
+3. Deliberative entry points
+4. Reversibility awareness
+5. Documentation discipline
+
+Violations require public review.
+
+---
+
+## What This Is Not
+
+This framework is not:
+
+- A compliance certificate
+- A moral scoring tool
+- A productivity optimizer
+- A behavior control system
+
+It governs structure, not outcomes.
 
 ---
 
 ## License
 
-This project is licensed under the Apache 2.0 License.
+This project is licensed under the Apache License 2.0.  
 See LICENSE for details.
 
-## Governance & Identity
+---
 
-This project is governed by:
+## Acknowledgment
 
-- Canonical Definition
-- Brand Policy
-- Public Decision Log
+Decision Mirror exists to ensure that
+as systems grow more powerful,
+human responsibility does not disappear.
 
-See /docs and /governance for details.
-
+This repository is maintained
+as a public governance resource.
